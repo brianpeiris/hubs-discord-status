@@ -12,5 +12,10 @@
     "storage",
     "tabs",
     "*://discordapp.com/*"
-  ]
+  ],
+  "applications": {
+    "gecko": {
+      "id": "hubs-discord-status@brianpeiris"
+    }
+  }
 }
