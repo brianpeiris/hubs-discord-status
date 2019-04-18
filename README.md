@@ -1,6 +1,6 @@
 # Hubs Discord Status
 
-If you use Discord in your browser, this will updates your Discord presence when you're using Hubs by Mozilla.
+If you use Discord in your browser, this addon will update your Discord presence when you're using Hubs by Mozilla.
 
 ## Installation
 
