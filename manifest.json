@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "hubs-discord-status",
+  "version": "1.0",
+  "description": "Updates your Discord status when you're using Hubs by Mozilla.",
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "storage",
+    "tabs",
+    "*://discordapp.com/*"
+  ]
+}
