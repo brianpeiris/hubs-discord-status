@@ -2,6 +2,8 @@
 
 If you use Discord in your browser, this addon will update your Discord presence when you're using Hubs by Mozilla.
 
+![example](firefox_2019-04-18_11-04-11.png)
+
 ## Installation
 
 1. Download the [latest release](https://github.com/brianpeiris/hubs-discord-status/releases/download/v1.0/hubs_discord_status-1.0-fx.xpi).
