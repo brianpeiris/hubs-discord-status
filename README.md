@@ -2,9 +2,9 @@
 
 If you use Discord in your browser, this will updates your Discord presence when you're using Hubs by Mozilla.
 
-## Manual installation
+## Installation
 
-1. [Download](https://github.com/brianpeiris/hubs-discord-status/archive/master.zip) the .zip file for this repository.
+1. Download the [latest release](https://github.com/brianpeiris/hubs-discord-status/releases/download/v1.0/hubs_discord_status-1.0-fx.xpi).
 2. Go to about:addons in Firefox.
 3. Install add-on from file using the Tools menu.
 
